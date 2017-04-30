@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/blog_batch06/resources/views/home.blade.php</file>
+            <file>file:/C:/wamp64/www/blog_batch06/resources/views/master.blade.php</file>
+            <file>file:/C:/wamp64/www/blog_batch06/routes/web.php</file>
+            <file>file:/C:/wamp64/www/blog_batch06/app/Http/Controllers/WelcomeController.php</file>
+            <file>file:/C:/wamp64/www/blog_batch06/resources/views/pages/home.blade.php</file>
+            <file>file:/C:/wamp64/www/blog_batch06/resources/views/pages/blog_details.blade.php</file>
+            <file>file:/C:/wamp64/www/blog_batch06/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/wamp64/www/blog_batch06/app/Http/Controllers/SuperAdminController.php</file>
+            <file>file:/C:/wamp64/www/blog_batch06/resources/views/pages/recent.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
